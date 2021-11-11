@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/korolkovrl/moviebrowser/static/css/main.ccc2162e.chunk.css",
-    "main.js": "/korolkovrl/moviebrowser/static/js/main.9868b7aa.chunk.js",
-    "main.js.map": "/korolkovrl/moviebrowser/static/js/main.9868b7aa.chunk.js.map",
-    "runtime-main.js": "/korolkovrl/moviebrowser/static/js/runtime-main.02c4fe2a.js",
-    "runtime-main.js.map": "/korolkovrl/moviebrowser/static/js/runtime-main.02c4fe2a.js.map",
-    "static/js/2.3592deed.chunk.js": "/korolkovrl/moviebrowser/static/js/2.3592deed.chunk.js",
-    "static/js/2.3592deed.chunk.js.map": "/korolkovrl/moviebrowser/static/js/2.3592deed.chunk.js.map",
-    "static/js/3.b2bd61cb.chunk.js": "/korolkovrl/moviebrowser/static/js/3.b2bd61cb.chunk.js",
-    "static/js/3.b2bd61cb.chunk.js.map": "/korolkovrl/moviebrowser/static/js/3.b2bd61cb.chunk.js.map",
-    "index.html": "/korolkovrl/moviebrowser/index.html",
-    "static/css/main.ccc2162e.chunk.css.map": "/korolkovrl/moviebrowser/static/css/main.ccc2162e.chunk.css.map",
-    "static/js/2.3592deed.chunk.js.LICENSE.txt": "/korolkovrl/moviebrowser/static/js/2.3592deed.chunk.js.LICENSE.txt"
+    "main.css": "/moviebrowser/static/css/main.ccc2162e.chunk.css",
+    "main.js": "/moviebrowser/static/js/main.9868b7aa.chunk.js",
+    "main.js.map": "/moviebrowser/static/js/main.9868b7aa.chunk.js.map",
+    "runtime-main.js": "/moviebrowser/static/js/runtime-main.d378e365.js",
+    "runtime-main.js.map": "/moviebrowser/static/js/runtime-main.d378e365.js.map",
+    "static/js/2.3592deed.chunk.js": "/moviebrowser/static/js/2.3592deed.chunk.js",
+    "static/js/2.3592deed.chunk.js.map": "/moviebrowser/static/js/2.3592deed.chunk.js.map",
+    "static/js/3.b2bd61cb.chunk.js": "/moviebrowser/static/js/3.b2bd61cb.chunk.js",
+    "static/js/3.b2bd61cb.chunk.js.map": "/moviebrowser/static/js/3.b2bd61cb.chunk.js.map",
+    "index.html": "/moviebrowser/index.html",
+    "static/css/main.ccc2162e.chunk.css.map": "/moviebrowser/static/css/main.ccc2162e.chunk.css.map",
+    "static/js/2.3592deed.chunk.js.LICENSE.txt": "/moviebrowser/static/js/2.3592deed.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.02c4fe2a.js",
+    "static/js/runtime-main.d378e365.js",
     "static/js/2.3592deed.chunk.js",
     "static/css/main.ccc2162e.chunk.css",
     "static/js/main.9868b7aa.chunk.js"
